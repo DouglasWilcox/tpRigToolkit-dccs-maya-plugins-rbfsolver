@@ -1,0 +1,13 @@
+# ===================================================================
+# tpRigToolkit-dccs-maya-plugins-rbfsolver requirements file
+# ===================================================================
+
+pytest
+pytest-cov
+coveralls
+sphinx
+sphinx_rtd_theme
+tpPyUtils
+tpDccLib
+tpQtLib
+tpMayaLib
